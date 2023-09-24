@@ -1,0 +1,2 @@
+Typescript is a programming language extending JS.
+TypeScript is a programming language that builds upon JavaScript to provide additional features and tools for writing more reliable and maintainable code.
